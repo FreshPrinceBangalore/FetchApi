@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+.b1 {
+    font-family: "Roborto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: lightblue;
+    padding: 0.5em 1em;
+}
+
+.b2 {
+    font-family: "Roborto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: lightgray;
+    padding: 0.5em 1em;
+}
